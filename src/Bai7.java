@@ -14,7 +14,7 @@ public class Bai7 {
                 int sum = num;
                 boolean isHappy = false;
 
-                while (sum != n && sum != 1) {
+                while (sum != 4 && sum != 1) {
                     int temp = sum;
                     sum = 0;
 
